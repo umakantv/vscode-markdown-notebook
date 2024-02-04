@@ -13,6 +13,8 @@
     ],
     "githubPullRequests.labelCreated": [
         "dummy",
-        "question"
+        "question",
+        "dependencies",
+        "duplicate"
     ]
 }
