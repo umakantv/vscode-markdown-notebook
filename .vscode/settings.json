@@ -10,5 +10,9 @@
     "typescript.tsc.autoDetect": "off",
     "githubPullRequests.pullRequestLabels": [
         "enhancement"
+    ],
+    "githubPullRequests.labelCreated": [
+        "dummy",
+        "question"
     ]
 }
